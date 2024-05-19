@@ -1,0 +1,37 @@
+{
+  "Students": [
+    {
+      "name": "Ali",
+      "surname": "Ahmed",
+      "avatar": "https://avatars.githubusercontent.com/u/118130116?v=4",
+      "Age": 23,
+      "City": "Amsterdam", 
+      "projectTask": "UI/UX Designer"
+    },
+    {
+      "name": "Kevin",
+      "surname": "Boere",
+      "avatar": "https://avatars.githubusercontent.com/u/112857604?v=4",
+      "Age": 22,
+      "City": "Den Bosch",
+      "projectTask": "Front-End Developer"
+    },
+    {
+      "name": "Justin",
+      "surname": "Prins",
+      "avatar": "https://avatars.githubusercontent.com/u/118190801?v=4",
+      "Age": 23,
+      "City": "Amersfoort",
+      "projectTask": "UI/UX Designer"
+    },
+    {
+      "name": "Martijn",
+      "surname": "Kooijman",
+      "avatar": "https://avatars.githubusercontent.com/u/32341318?v=4",
+      "Age": 23,
+      "City": "Mijdrecht",
+      "projectTask": "Front-End Developer"
+    }
+    
+  ]
+}
