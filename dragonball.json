@@ -1,0 +1,46 @@
+{
+  "saiyans": [
+    {
+  "name": "Goku",
+  "age": "31",
+  "ultimateMove": "Spirit Bomb",
+  "Transforms": true, 
+  "goodOrBad": "Good"
+  }, 
+  {
+    "name": "Gohan",
+    "age": "18",
+    "ultimateMove": "Super Masenko",
+    "Transforms": true, 
+    "goodOrBad": "Good"
+    }, 
+  {
+    "name": "Goten",
+    "age": "10",
+    "ultimateMove": "Super Kamehameha",
+    "Transforms": true, 
+    "goodOrBad": "Good"
+    }, 
+  {
+    "name": "Vegeta",
+    "age": "32",
+    "ultimateMove": "Final Flash",
+    "Transforms": true, 
+    "goodOrBad": "Bad"
+    },
+    {
+      "name": "Trunks",
+      "age": "11",
+      "ultimateMove": "Burning Attack",
+      "Transforms": true, 
+      "goodOrBad": "Good"
+      },
+      {
+        "name": "Bulla",
+        "age": "2",
+        "ultimateMove": "Burning Attack",
+        "Transforms": false, 
+        "goodOrBad": "Good"
+        }
+  ]
+}
