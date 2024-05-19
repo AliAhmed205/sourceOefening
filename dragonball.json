@@ -1,46 +1,109 @@
 {
-  "saiyans": [
+  "characters": [
     {
-  "name": "Goku",
-  "age": "31",
-  "ultimateMove": "Spirit Bomb",
-  "Transforms": true, 
-  "goodOrBad": "Good"
-  }, 
-  {
-    "name": "Gohan",
-    "age": "18",
-    "ultimateMove": "Super Masenko",
-    "Transforms": true, 
-    "goodOrBad": "Good"
-    }, 
-  {
-    "name": "Goten",
-    "age": "10",
-    "ultimateMove": "Super Kamehameha",
-    "Transforms": true, 
-    "goodOrBad": "Good"
-    }, 
-  {
-    "name": "Vegeta",
-    "age": "32",
-    "ultimateMove": "Final Flash",
-    "Transforms": true, 
-    "goodOrBad": "Bad"
+      "name": "Goku",
+      "race": "Saiyan",
+      "power_level": 100000,
+      "abilities": ["Kamehameha", "Spirit Bomb", "Kaio-ken"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Vegeta",
+      "race": "Saiyan",
+      "power_level": 95000,
+      "abilities": ["Galick Gun", "Final Flash", "Big Bang Attack"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Piccolo",
+      "race": "Namekian",
+      "power_level": 85000,
+      "abilities": ["Special Beam Cannon", "Hellzone Grenade", "Makankosappo"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Gohan",
+      "race": "Half-Saiyan",
+      "power_level": 90000,
+      "abilities": ["Masenko", "Kamehameha", "Potential Unleashed"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Frieza",
+      "race": "Frieza Race",
+      "power_level": 120000,
+      "abilities": ["Death Beam", "Death Ball", "Supernova"],
+      "affiliation": "Frieza Force"
+    },
+    {
+      "name": "Cell",
+      "race": "Bio-Android",
+      "power_level": 150000,
+      "abilities": ["Kamehameha", "Solar Flare", "Regeneration"],
+      "affiliation": "None"
     },
     {
       "name": "Trunks",
-      "age": "11",
-      "ultimateMove": "Burning Attack",
-      "Transforms": true, 
-      "goodOrBad": "Good"
-      },
-      {
-        "name": "Bulla",
-        "age": "2",
-        "ultimateMove": "Burning Attack",
-        "Transforms": false, 
-        "goodOrBad": "Good"
-        }
+      "race": "Half-Saiyan",
+      "power_level": 80000,
+      "abilities": ["Burning Attack", "Shining Sword Attack", "Final Flash"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Krillin",
+      "race": "Human",
+      "power_level": 70000,
+      "abilities": ["Destructo Disk", "Solar Flare", "Kamehameha"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Bulma",
+      "race": "Human",
+      "power_level": 0,
+      "abilities": ["Genius Intellect", "Inventor", "Scientist"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Majin Buu",
+      "race": "Majin",
+      "power_level": 180000,
+      "abilities": ["Chocolate Beam", "Regeneration", "Absorption"],
+      "affiliation": "None"
+    },
+    {
+      "name": "Android 18",
+      "race": "Android",
+      "power_level": 75000,
+      "abilities": ["Energy Absorption", "High-Speed Movement", "Infinite Energy"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Tien Shinhan",
+      "race": "Human",
+      "power_level": 65000,
+      "abilities": ["Tri-Beam", "Solar Flare", "Multi-Form"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Yamcha",
+      "race": "Human",
+      "power_level": 60000,
+      "abilities": ["Wolf Fang Fist", "Kamehameha", "Spirit Ball"],
+      "affiliation": "Z Fighters"
+    },
+    {
+      "name": "Beerus",
+      "race": "God of Destruction",
+      "power_level": 200000,
+      "abilities": ["Hakai", "God of Destruction's Wrath", "Ultra Instinct"],
+      "affiliation": "None"
+    },
+    {
+      "name": "Whis",
+      "race": "Angel",
+      "power_level": 250000,
+      "abilities": ["Temporal Do-Over", "Ultra Instinct", "Warp"],
+      "affiliation": "None"
+    }
   ]
 }
