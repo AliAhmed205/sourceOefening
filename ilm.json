@@ -1,0 +1,76 @@
+{
+  "moskeeen": [
+    {
+      "naam": "Al-Hidaya Moskee",
+      "adres": "Straatweg 123, 1234 AB Amsterdam",
+      "imam": "Usthaad Ahmed",
+      "activiteiten": [
+        {
+          "type": "Vrijdaggebed",
+          "tijd": "13:00",
+          "beschrijving": "Wekelijks vrijdaggebed gevolgd door een lezing."
+        },
+        {
+          "type": "Quranlessen",
+          "tijd": "Zaterdag 10:00 - 12:00",
+          "beschrijving": "Lessen voor kinderen en volwassenen over de recitatie van de Quran."
+        }
+      ],
+      "contact": {
+        "telefoon": "020-1234567",
+        "email": "info@alhidaya.nl"
+      }
+    },
+    {
+      "naam": "An-Noor Moskee",
+      "adres": "Lichtstraat 45, 5678 CD Rotterdam",
+      "imam": "Usthaad Bilal",
+      "activiteiten": [
+        {
+          "type": "Lezingen",
+          "tijd": "Woensdag 19:00",
+          "beschrijving": "Wekelijkse lezingen over verschillende Islamitische onderwerpen."
+        },
+        {
+          "type": "Jeugdactiviteiten",
+          "tijd": "Zondag 14:00 - 16:00",
+          "beschrijving": "Activiteiten en lessen specifiek gericht op jongeren."
+        }
+      ],
+      "contact": {
+        "telefoon": "010-7654321",
+        "email": "contact@annoor.nl"
+      }
+    }
+  ],
+  "usthaads": [
+    {
+      "naam": "Usthaad Ahmed",
+      "specialisaties": ["Fiqh", "Hadith"],
+      "moskee": "Al-Hidaya Moskee",
+      "beschrijving": "Usthaad Ahmed is een gerespecteerde geleerde met jarenlange ervaring in het geven van lezingen en het onderwijzen van Islamitische jurisprudentie (fiqh) en hadith."
+    },
+    {
+      "naam": "Usthaad Bilal",
+      "specialisaties": ["Tafsir", "Aqeedah"],
+      "moskee": "An-Noor Moskee",
+      "beschrijving": "Usthaad Bilal staat bekend om zijn diepgaande kennis van de exegese van de Quran (tafsir) en de leerstellingen van het geloof (aqeedah)."
+    }
+  ],
+  "activiteiten_schema": [
+    {
+      "datum": "2024-06-01",
+      "tijd": "13:00",
+      "activiteit": "Vrijdaggebed",
+      "moskee": "Al-Hidaya Moskee",
+      "usthaad": "Usthaad Ahmed"
+    },
+    {
+      "datum": "2024-06-05",
+      "tijd": "19:00",
+      "activiteit": "Lezing: De Kracht van Gebed",
+      "moskee": "An-Noor Moskee",
+      "usthaad": "Usthaad Bilal"
+    }
+  ]
+}
