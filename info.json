@@ -25,6 +25,14 @@
       "projectTask": "UI/UX Designer"
     },
     {
+      "name": "Bart",
+      "surname": "Spons",
+      "avatar": "https://avatars.githubusercontent.com/u/62010539?v=4",
+      "Age": 23,
+      "City": "Amsterdam",
+      "projectTask": "Front-Developer"
+    },
+    {
       "name": "Martijn",
       "surname": "Kooijman",
       "avatar": "https://avatars.githubusercontent.com/u/32341318?v=4",
