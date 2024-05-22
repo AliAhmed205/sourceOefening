@@ -1,0 +1,29 @@
+{
+  "Students": [
+    {
+      "name": "Ali",
+      "emoji": "🎨",
+      "project": "Kunst in C"
+    },
+    {
+      "name": "Ferhat",
+      "emoji": "🌸",
+      "project": "Bieb in Bloei"
+    },
+    {
+      "name": "Nicole",
+      "emoji": "🌸",
+      "project": "Bieb in Bloei"
+    },
+    {
+      "name": "Eva",
+      "emoji": "👨‍⚖️",
+      "project": "Man met de hamer"
+    },
+    {
+      "name": "Xian Nan",
+      "emoji": "📚",
+      "project": "Oba Zoeker"
+    }
+  ]
+}
