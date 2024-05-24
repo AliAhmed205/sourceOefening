@@ -8,7 +8,11 @@
         {
           "type": "Vrijdaggebed",
           "tijd": "13:00",
-          "beschrijving": "Wekelijks vrijdaggebed gevolgd door een lezing."
+          "beschrijving": "Wekelijks vrijdaggebed gevolgd door een lezing.",
+          "boek": {
+            "titel": "Boek Al-Hidaya",
+            "pdf_link": "https://drive.google.com/file/d/1cBGQH9BdvEZ9_EewOA3XAoo4795OQpeP/view?usp=sharing"
+          }
         },
         {
           "type": "Quranlessen",
