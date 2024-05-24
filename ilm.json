@@ -33,7 +33,11 @@
         {
           "type": "Lezingen",
           "tijd": "Woensdag 19:00",
-          "beschrijving": "Wekelijkse lezingen over verschillende Islamitische onderwerpen."
+          "beschrijving": "Wekelijkse lezingen over verschillende Islamitische onderwerpen.",
+          "boek": {
+            "titel": "Boek An-Noor",
+            "pdf_link": "https://drive.google.com/file/d/1cBGQH9BdvEZ9_EewOA3XAoo4795OQpeP/view?usp=sharing"
+          }
         },
         {
           "type": "Jeugdactiviteiten",
