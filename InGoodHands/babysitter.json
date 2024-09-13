@@ -1,13 +1,13 @@
 {
   "babysitter_service": {
-    "naam": "KinderOppas Service",
-    "oprichter": {
-      "naam": "Tessa Rozengracht",
-      "functie": "Oprichtster",
-      "beschrijving": "Tessa is de oprichtster van de KinderOppas Service. Met meer dan 10 jaar ervaring in kinderopvang en een passie voor het helpen van gezinnen, zorgt zij voor een veilige en leuke omgeving voor kinderen.",
-      "avatar": "https://raw.githubusercontent.com/AliAhmed205/sourceOefening/main/InGoodHands/woman.jpg"
-    },
+    "naam": "In Good Hands",
     "team": [
+      {
+        "naam": "Tessa Rozengracht",
+        "functie": "Oprichtster",
+        "beschrijving": "Tessa is de oprichtster van de KinderOppas Service. Met meer dan 10 jaar ervaring in kinderopvang en een passie voor het helpen van gezinnen, zorgt zij voor een veilige en leuke omgeving voor kinderen.",
+        "avatar": "https://raw.githubusercontent.com/AliAhmed205/sourceOefening/main/InGoodHands/woman.jpg"  
+      },
       {
         "naam": "Anna Jansen",
         "functie": "Hoofd Babysitter",
