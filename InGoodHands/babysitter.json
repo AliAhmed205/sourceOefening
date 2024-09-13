@@ -4,25 +4,25 @@
     "team": [
       {
         "naam": "Tessa Rozengracht",
-        "functie": "Oprichtster",
+        "functie": "Founder",
         "beschrijving": "Tessa is de oprichtster van de KinderOppas Service. Met meer dan 10 jaar ervaring in kinderopvang en een passie voor het helpen van gezinnen, zorgt zij voor een veilige en leuke omgeving voor kinderen.",
         "avatar": "https://raw.githubusercontent.com/AliAhmed205/sourceOefening/main/InGoodHands/woman.jpg"  
       },
       {
         "naam": "Anna Jansen",
-        "functie": "Hoofd Babysitter",
+        "functie": "Head Babysitter",
         "beschrijving": "Anna heeft 8 jaar ervaring als babysitter en is gespecialiseerd in het verzorgen van baby's en peuters. Ze houdt van lezen en het organiseren van creatieve activiteiten voor kinderen.",
         "avatar": "https://raw.githubusercontent.com/AliAhmed205/sourceOefening/main/InGoodHands/anna.jpg"
       },
       {
         "naam": "Mark de Vries",
-        "functie": "Oppas Specialist",
+        "functie": "Babysitting Specialist",
         "beschrijving": "Mark is een gediplomeerd kinderbegeleider en heeft 5 jaar ervaring in de kinderopvang. Hij heeft een speciale interesse in sport en buitenactiviteiten.",
         "avatar": "https://raw.githubusercontent.com/AliAhmed205/sourceOefening/main/InGoodHands/mark.jpg"
       },
       {
         "naam": "Sophie van Dijk",
-        "functie": "Kinderpsychologe",
+        "functie": "Child Psychologist",
         "beschrijving": "Sophie is een gekwalificeerde kinderpsychologe die ouders en kinderen ondersteunt met advies en begeleiding bij gedrags- en ontwikkelingskwesties.",
         "avatar": "https://raw.githubusercontent.com/AliAhmed205/sourceOefening/main/InGoodHands/sophie.png"
       }
