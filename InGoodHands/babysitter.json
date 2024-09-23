@@ -30,31 +30,37 @@
     "reviews": [
       {
         "reviewer": "Lisa van Buren",
+        "datum": "12/09/2024",
         "sterren": 5,
         "review": "Deze babysitterservice biedt uitstekende zorg en aandacht voor mijn kinderen, ze zijn altijd goed verzorgd en gelukkig met de activiteiten die worden aangeboden, ik zou ze ten zeerste aanbevelen."
       },
       {
         "reviewer": "Joris Meijer",
+        "datum": "05/09/2024",
         "sterren": 4,
         "review": "De babysitters zijn vriendelijk en professioneel, hoewel er soms wat kleine misverstanden waren over het schema, was de algehele ervaring positief en betrouwbaar voor mijn kinderen."
       },
       {
         "reviewer": "Emma de Wit",
+        "datum": "28/08/2024",
         "sterren": 5,
         "review": "Wat een geweldige service! De babysitters zijn zeer ervaren en weten precies hoe ze met verschillende leeftijden van kinderen moeten omgaan, ik ben echt onder de indruk van hun professionaliteit."
       },
       {
         "reviewer": "David Bakker",
+        "datum": "21/08/2024",
         "sterren": 3,
         "review": "De service is over het algemeen goed, maar er waren enkele momenten waarop de communicatie niet helemaal soepel verliep, wat leidde tot enige verwarring over de afspraken."
       },
       {
         "reviewer": "Sanne Jansen",
+        "datum": "17/08/2024",
         "sterren": 5,
         "review": "Absoluut tevreden met de babysitterservice, de aandacht voor detail en de zorg die mijn kinderen ontvangen zijn werkelijk uitzonderlijk, het geeft me veel gemoedsrust."
       },
       {
         "reviewer": "Tom de Vries",
+        "datum": "12/08/2024",
         "sterren": 4,
         "review": "Een betrouwbare service met vriendelijke medewerkers, hoewel er af en toe wat verbeteringen nodig zijn in de planning, blijft het een waardevolle optie voor kinderopvang."
       }
