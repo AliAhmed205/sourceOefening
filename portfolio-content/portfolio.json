@@ -1,0 +1,24 @@
+{
+  "projects-thumbnails": [{
+      "name": "In Good Hands",
+      "about": "Hire a babysitter by choice that meets your child's care preference.",
+      "languages": ["Svelte", "Vite", "API"],
+      "backgroundColor": "#fc608b",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-web.webm", "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-codec-1.mov"]
+    },
+    {
+      "name": "Sync",
+      "about": "A dynamic themed streaming service, that delivers studio ambiance to its movies.",
+      "languages": ["EJS", "NodeJS", "Express", "API"],
+      "backgroundColor": "transparent",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-thumb.mp4"]
+    },
+    {
+      "name": "Slakkenplaag van 24'",
+      "about": "An interactive storytelling infographic about the mysterious increase of slugs in the Netherlands.",
+      "languages": ["HTML", "JS", "CSS"],
+      "backgroundColor": "#4db32c",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakkenplaag.mov"]
+    }
+  ]
+}
