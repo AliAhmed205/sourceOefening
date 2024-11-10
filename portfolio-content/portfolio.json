@@ -22,7 +22,7 @@
     },
     {
       "name": "Pawpal",
-      "about": "A platform to connect animals with loving homes, offering a personalized filter to help find the perfect pet pal",
+      "about": "A platform to connect animals with loving owners, finding the perfect pet pal",
       "languages": ["React", "CSS", "JS"],
       "backgroundColor": "#90ee90",
       "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-thumbnail.mp4"]
