@@ -37,6 +37,7 @@
   ],
   "projects": [
     {
+      "id": "Sync",
       "name": "Sync",
       "languages": ["EJS", "NodeJS", "Express", "API"],
       "myRole": "Front-end, Back-end, UI Design",
@@ -50,6 +51,7 @@
        "githubUrl": "https://github.com/AliAhmed205/Sync-Streaming"
     },
     {
+      "id": "In Good Hands",
       "name": "In Good Hands",
       "languages": ["Svelte", "Vite", "API"],
       "myRole": "Front-end, UI Design, Motion Design, Routing",
@@ -63,6 +65,7 @@
        "githubUrl": "https://github.com/AliAhmed205/InGoodHands"
     },
     {
+      "id": "Slakkenplaag van 24'",
       "name": "Plaag van 24'",
       "languages": ["HTML", "ChartJS", "CSS"],
       "myRole": "Front-end, UI Design, Data collecting",
@@ -76,6 +79,7 @@
        "githubUrl": "https://github.com/AliAhmed205/de-slakkenplaag-van-24"
     },
     {
+      "id": "Pawpal",
       "name": "PawPal",
       "languages": ["React", "CSS", "JS"],
       "myRole": "Front-end, UI Design, Routing",
@@ -89,6 +93,7 @@
        "githubUrl": "https://github.com/AliAhmed205/pawpal"
     },
     {
+      "id": "Lorem Academy",
       "name": "Lorem Academy",
       "languages": ["React", "CSS", "JS"],
       "myRole": "Front-end, UI Design, Routing",
