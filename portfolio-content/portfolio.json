@@ -16,9 +16,91 @@
     {
       "name": "Slakkenplaag van 24'",
       "about": "An interactive storytelling infographic about the mysterious increase of slugs in the Netherlands.",
-      "languages": ["HTML", "JS", "CSS"],
+      "languages": ["HTML", "ChartJS", "CSS"],
       "backgroundColor": "#4db32c",
       "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakkenplaag.mov"]
+    },
+    {
+      "name": "Pawpal",
+      "about": "A platform to connect animals with loving homes, offering a personalized filter to help find the perfect pet pal",
+      "languages": ["React", "CSS", "JS"],
+      "backgroundColor": "#90ee90",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-thumbnail.mp4"]
+    },
+    {
+      "name": "Lorem Academy",
+      "about": "Become a teacher for day, in this new brightSpace and Teams combined environment.",
+      "languages": ["React", "CSS", "JS"],
+      "backgroundColor": "#3a05eb",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-thumbnail.mp4"]
     }
+  ],
+  "projects": [
+    {
+      "name": "Sync",
+      "languages": ["EJS", "NodeJS", "Express", "API"],
+      "myRole": "Front-end, Back-end, UI Design",
+      "websiteUrl": "https://syncin.onrender.com/",
+      "textColor": "#00187b",
+      "firstThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-thumb.mp4",
+       "firstAbout": "A streaming service with themed studios that brings a studio-like vibe to every movie. It creates an immersive atmosphere around each theme, making you feel like you’re really in the world of the film. With special touches in audio, visuals, and design, it’s a unique way to experience movies with a cinematic feel",
+       "secondAbout": "I thought of an idea for a streaming service with themed studios that make each movie feel like an experience. Each studio would have a special vibe that fits the movie’s world, so viewers feel like they’re part of it. With unique touches in sound, visuals, and design, it would give a fun, cinematic feeling to every movie. This would be more than just watching a film—it would make the viewer feel like they’re fully immersed in the story.",
+       "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-three-screens.mp4",
+       "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-studios.mp4",
+       "githubUrl": "https://github.com/AliAhmed205/Sync-Streaming"
+    },
+    {
+      "name": "In Good Hands",
+      "languages": ["Svelte", "Vite", "API"],
+      "myRole": "Front-end, UI Design, Motion Design, Routing",
+      "websiteUrl": "https://ingoodhands-three.vercel.app/",
+      "textColor": "#8a0026",
+      "firstThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-mobile-desktop.mp4",
+       "firstAbout": "Hire a babysitter who matches your child’s specific care needs and personality. Choose from a range of babysitters with different backgrounds and skills to find someone who best aligns with your child’s preferences and routines, ensuring they feel comfortable, safe, and happy. This website lets you select the ideal sitter for a personalized care experience tailored to your family.",
+       "secondAbout": "I came up with the idea for a website called In Good Hands, which helps parents find babysitters who are the perfect fit for their child's needs and personality. The platform offers a range of sitters with different backgrounds and skills, allowing parents to choose someone who matches their child's routines and preferences. This ensures that kids feel comfortable, safe, and happy, giving families a personalized care experience tailored to them.",
+       "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-meet-the-babysitters.mp4",
+       "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-hire.mp4",
+       "githubUrl": "https://github.com/AliAhmed205/InGoodHands"
+    },
+    {
+      "name": "Plaag van 24'",
+      "languages": ["HTML", "ChartJS", "CSS"],
+      "myRole": "Front-end, UI Design, Data collecting",
+      "websiteUrl": "https://de-slakkenplaag-van-24.vercel.app/",
+      "textColor": "#2c4a00",
+      "firstThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakkenplaag-thumbnail.mp4",
+       "firstAbout": "An interactive infographic about the mysterious increase in slug populations in the Netherlands. This infographic would visually and engagingly explain the background and possible causes of the sudden rise in slug numbers. The story would take you through interactive elements such as charts, maps, and images, allowing viewers to explore where and why the slugs are spreading. Raising the  question of why this phenomenon is becoming so noticeable now.",
+       "secondAbout": " thought it could be interesting to create an interactive infographic about the surprising increase in slug populations in the Netherlands. The idea would be to visually show the rise in numbers and dive into possible causes, using charts, maps, and images.  It could be a fun way to explore an unusual topic while sparking curiosity.",
+       "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakken-histogram.mp4",
+       "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakkenplaag-map.mp4",
+       "githubUrl": "https://github.com/AliAhmed205/de-slakkenplaag-van-24"
+    },
+    {
+      "name": "PawPal",
+      "languages": ["React", "CSS", "JS"],
+      "myRole": "Front-end, UI Design, Routing",
+      "websiteUrl": "https://pawpal-woad.vercel.app/",
+      "textColor": "#007c5d",
+      "firstThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-thumbnail.mp4",
+       "firstAbout": "PawPal is an online platform designed to bring together animal and potential pet owners, making it easier to find a loving home for every animal. With a user-friendly interface, PawPal allows users to search for animals based on personalized filters such as breed and age.",
+       "secondAbout": "I’ve always been passionate about animals, and the idea behind PawPal grew from a desire to make the adoption process more accessible and personalized. Many people struggle to find the right pet because there’s no easy way to filter out animals that might not be a good fit for their lifestyle or home environment.",
+       "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-dieren.mp4",
+       "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-detail.mp4",
+       "githubUrl": "https://github.com/AliAhmed205/pawpal"
+    },
+    {
+      "name": "Lorem Academy",
+      "languages": ["React", "CSS", "JS"],
+      "myRole": "Front-end, UI Design, Routing",
+      "websiteUrl": "https://teacher-simulator.vercel.app/",
+      "textColor": "#170064",
+      "firstThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-thumbnail.mp4",
+       "firstAbout": "By combing the features of brightSpace and Microsoft Teams, this platform offers an new interactive teaching experience. Whether you’re looking to share updates, other teachers, upcoming calls or change your class schedule, it's all up to you. ",
+       "secondAbout": "I’ve always been passionate about animals, and the idea behind PawPal grew from a desire to make the adoption process more accessible and personalized. Many people struggle to find the right pet because there’s no easy way to filter out animals that might not be a good fit for their lifestyle or home environment.",
+       "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-feed.mp4",
+       "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-schedule.mp4",
+       "githubUrl": "https://github.com/AliAhmed205/lorem-academy"
+    }
+    
   ]
 }
