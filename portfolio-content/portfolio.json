@@ -5,60 +5,7 @@
       "about": "Hire a babysitter by choice that meets your child's care preference.",
       "languages": ["Svelte", "Vite", "API"],
       "backgroundColor": "#fc608b",
-      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-web.webm", "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-codec-1.mov"]
-    },
-    {
-      "id": "Sync",
-      "name": "Sync",
-      "about": "A dynamic themed streaming service, that delivers studio ambiance to its movies.",
-      "languages": ["EJS", "NodeJS", "Express", "API"],
-      "backgroundColor": "transparent",
-      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-thumb.mp4"]
-    },
-    {
-      "id": "Slakkenplaag van 24'",
-      "name": "Slakkenplaag van 24'",
-      "about": "An interactive storytelling infographic about the mysterious increase of slugs in the Netherlands.",
-      "languages": ["HTML", "ChartJS", "CSS"],
-      "backgroundColor": "#4db32c",
-      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakkenplaag.mov"]
-    },
-    {
-      "id": "Pawpal",
-      "name": "Pawpal",
-      "about": "A platform to connect animals with loving owners, finding the perfect pet pal",
-      "languages": ["React", "CSS", "JS"],
-      "backgroundColor": "#90ee90",
-      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-thumbnail.mp4"]
-    },
-    {
-      "id": "Lorem Academy",
-      "name": "Lorem Academy",
-      "about": "Become a teacher for day, in this new brightSpace and Teams combined environment.",
-      "languages": ["React", "CSS", "JS"],
-      "backgroundColor": "#3a05eb",
-      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-thumbnail.mp4"]
-    }
-  ],
-  "projects": [
-    {
-      "id": "Sync",
-      "name": "Sync",
-      "languages": ["EJS", "NodeJS", "Express", "API"],
-      "myRole": "Front-end, Back-end, UI Design",
-      "websiteUrl": "https://syncin.onrender.com/",
-      "textColor": "#00187b",
-      "firstThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-thumb.mp4",
-       "firstAbout": "A streaming service with themed studios that brings a studio-like vibe to every movie. It creates an immersive atmosphere around each theme, making you feel like you’re really in the world of the film. With special touches in audio, visuals, and design, it’s a unique way to experience movies with a cinematic feel",
-       "secondAbout": "I thought of an idea for a streaming service with themed studios that make each movie feel like an experience. Each studio would have a special vibe that fits the movie’s world, so viewers feel like they’re part of it. With unique touches in sound, visuals, and design, it would give a fun, cinematic feeling to every movie. This would be more than just watching a film—it would make the viewer feel like they’re fully immersed in the story.",
-       "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-three-screens.mp4",
-       "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-studios.mp4",
-       "githubUrl": "https://github.com/AliAhmed205/Sync-Streaming"
-    },
-    {
-      "id": "In Good Hands",
-      "name": "In Good Hands",
-      "languages": ["Svelte", "Vite", "API"],
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-web.webm", "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/IGH-codec-1.mov"],
       "myRole": "Front-end, UI Design, Motion Design, Routing",
       "websiteUrl": "https://ingoodhands-three.vercel.app/",
       "textColor": "#8a0026",
@@ -70,9 +17,30 @@
        "githubUrl": "https://github.com/AliAhmed205/InGoodHands"
     },
     {
+      "id": "Sync",
+      "name": "Sync",
+      "about": "A dynamic themed streaming service, that delivers studio ambiance to its movies.",
+      "languages": ["EJS", "NodeJS", "Express", "API"],
+      "backgroundColor": "transparent",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-thumb.mp4"],
+      "myRole": "Front-end, Back-end, UI Design",
+      "websiteUrl": "https://syncin.onrender.com/",
+      "textColor": "#00187b",
+      "firstThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-thumb.mp4",
+       "firstAbout": "A streaming service with themed studios that brings a studio-like vibe to every movie. It creates an immersive atmosphere around each theme, making you feel like you’re really in the world of the film. With special touches in audio, visuals, and design, it’s a unique way to experience movies with a cinematic feel",
+       "secondAbout": "I thought of an idea for a streaming service with themed studios that make each movie feel like an experience. Each studio would have a special vibe that fits the movie’s world, so viewers feel like they’re part of it. With unique touches in sound, visuals, and design, it would give a fun, cinematic feeling to every movie. This would be more than just watching a film—it would make the viewer feel like they’re fully immersed in the story.",
+       "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-three-screens.mp4",
+       "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/sync-studios.mp4",
+       "githubUrl": "https://github.com/AliAhmed205/Sync-Streaming"
+
+    },
+    {
       "id": "Slakkenplaag van 24'",
-      "name": "Plaag van 24'",
+      "name": "Slakkenplaag van 24'",
+      "about": "An interactive storytelling infographic about the mysterious increase of slugs in the Netherlands.",
       "languages": ["HTML", "ChartJS", "CSS"],
+      "backgroundColor": "#4db32c",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakkenplaag.mov"],
       "myRole": "Front-end, UI Design, Data collecting",
       "websiteUrl": "https://de-slakkenplaag-van-24.vercel.app/",
       "textColor": "#2c4a00",
@@ -82,11 +50,15 @@
        "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakken-histogram.mp4",
        "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/slakkenplaag-map.mp4",
        "githubUrl": "https://github.com/AliAhmed205/de-slakkenplaag-van-24"
+
     },
     {
       "id": "Pawpal",
-      "name": "PawPal",
+      "name": "Pawpal",
+      "about": "A platform to connect animals with loving owners, finding the perfect pet pal",
       "languages": ["React", "CSS", "JS"],
+      "backgroundColor": "#90ee90",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-thumbnail.mp4"],
       "myRole": "Front-end, UI Design, Routing",
       "websiteUrl": "https://pawpal-woad.vercel.app/",
       "textColor": "#007c5d",
@@ -96,11 +68,15 @@
        "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-dieren.mp4",
        "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/pawpal-detail.mp4",
        "githubUrl": "https://github.com/AliAhmed205/pawpal"
+
     },
     {
       "id": "Lorem Academy",
       "name": "Lorem Academy",
+      "about": "Become a teacher for day, in this new brightSpace and Teams combined environment.",
       "languages": ["React", "CSS", "JS"],
+      "backgroundColor": "#3a05eb",
+      "thumbnail-video": ["https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-thumbnail.mp4"],
       "myRole": "Front-end, UI Design, Routing",
       "websiteUrl": "https://teacher-simulator.vercel.app/",
       "textColor": "#170064",
@@ -110,7 +86,7 @@
        "secondThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-feed.mp4",
        "thirdThumbnail": "https://github.com/AliAhmed205/sourceOefening/raw/refs/heads/main/portfolio-content/loremacademy-schedule.mp4",
        "githubUrl": "https://github.com/AliAhmed205/lorem-academy"
+
     }
-    
   ]
 }
