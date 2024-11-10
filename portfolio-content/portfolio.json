@@ -1,6 +1,7 @@
 {
   "projects-thumbnails": [{
       "id": "In Good Hands",
+      "thumb_name": "In Good Hands",
       "name": "In Good Hands",
       "about": "Hire a babysitter by choice that meets your child's care preference.",
       "languages": ["Svelte", "Vite", "API"],
@@ -18,6 +19,7 @@
     },
     {
       "id": "Sync",
+      "thumb_name": "Sync",
       "name": "Sync",
       "about": "A dynamic themed streaming service, that delivers studio ambiance to its movies.",
       "languages": ["EJS", "NodeJS", "Express", "API"],
@@ -36,6 +38,7 @@
     },
     {
       "id": "Slakkenplaag van 24'",
+      "thumb_name": "Plaag van 24'",
       "name": "Slakkenplaag van 24'",
       "about": "An interactive storytelling infographic about the mysterious increase of slugs in the Netherlands.",
       "languages": ["HTML", "ChartJS", "CSS"],
@@ -54,6 +57,7 @@
     },
     {
       "id": "Pawpal",
+      "thumb_name": "Pawpal",
       "name": "Pawpal",
       "about": "A platform to connect animals with loving owners, finding the perfect pet pal",
       "languages": ["React", "CSS", "JS"],
@@ -72,6 +76,7 @@
     },
     {
       "id": "Lorem Academy",
+      "thumb_name": "Lorem Academy",
       "name": "Lorem Academy",
       "about": "Become a teacher for day, in this new brightSpace and Teams combined environment.",
       "languages": ["React", "CSS", "JS"],
